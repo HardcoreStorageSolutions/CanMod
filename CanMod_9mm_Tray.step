@@ -16,11 +16,11 @@ cturing Information (PMI)---4.0---2014-10-13',
 FILE_NAME(
 /* name */ '64ce34718263ce631c54c62a',
 /* time_stamp */ '2023-08-05T11:37:22Z',
-/* author */ (''),
-/* organization */ (''),
+/* author */ ('Kerry Hatcher [Patent Pending]'),
+/* organization */ ('Hardcore Storage Solutions LLC'),
 /* preprocessor_version */ 'ST-DEVELOPER v19.4',
 /* originating_system */ '  ',
-/* authorisation */ '  ');
+/* authorisation */ 'Attribution-NonCommercial-ShareAlike 4.0 International');
 
 FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 1 1 4 }'));
 ENDSEC;
