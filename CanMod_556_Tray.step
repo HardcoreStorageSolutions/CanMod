@@ -20,7 +20,7 @@ FILE_NAME(
 /* organization */ ('Hardcore Storage Solutions LLC'),
 /* preprocessor_version */ 'ST-DEVELOPER v19.4',
 /* originating_system */ '  ',
-/* authorisation */ '  ');
+/* authorisation */ 'Attribution-NonCommercial-ShareAlike 4.0 International');
 
 FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 1 1 4 }'));
 ENDSEC;
